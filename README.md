@@ -18,8 +18,8 @@ Following the instructions and executing the scripts, you will provision
 
 1- Clone this githup repository in your local system:
 ```
-git clone git@github.com:bkoohi/build-iks-cluster.git
+git clone git@github.com:bkoohi/powervs-standard.git
 ```
 ```
-cd build-iks-cluster
+cd powervs-standard
 ```
